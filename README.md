@@ -29,4 +29,4 @@ test3
 test branch
 test branch add
 master branch add2
-master merge test
+merge test
